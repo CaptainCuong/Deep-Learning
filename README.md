@@ -1,4 +1,7 @@
 # Deep-Learning
+
+Coursera: https://www.coursera.org/specializations/deep-learning?#courses
+
 ## Course 1: Neural Networks and Deep Learning
 
 In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. 
