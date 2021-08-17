@@ -11,3 +11,5 @@ They work by compressing the input into a latent-space representation, and then 
 ![alt text](https://miro.medium.com/max/1400/1*V_YtxTFUqDrmmu2JqMZ-rA.png)
 
 * Similar technique: PCA
+https://en.wikipedia.org/wiki/Low-rank_approximation#:~:text=In%20mathematics%2C%20low%2Drank%20approximation,approximating%20matrix%20has%20reduced%20rank
+https://www.upgrad.com/blog/neural-network-project-ideas-topics-beginners/
