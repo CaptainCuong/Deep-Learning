@@ -9,3 +9,5 @@ They work by compressing the input into a latent-space representation, and then 
 - Decoder: This part aims to reconstruct the input from the latent space representation. It can be represented by a decoding function $r=g(h)$.
 
 ![alt text](https://miro.medium.com/max/1400/1*V_YtxTFUqDrmmu2JqMZ-rA.png)
+
+* Similar technique: PCA
